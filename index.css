@@ -1,0 +1,18 @@
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.numeric {
+  text-align: right;
+}
+
+th {
+  background-color: #f2f2f2;
+}
